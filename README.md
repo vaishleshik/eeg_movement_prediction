@@ -1,5 +1,5 @@
 # eeg_movement_prediction
-Predict thought from EEG recordings
+Predict movement from EEG recordings
 
 The motor cortex of the brain maps the human body within its small surface, a 'homonculus' ('little man')
 
@@ -11,7 +11,5 @@ There is evidence that the very __thought__ of movements elicits electroencephal
 
 1. to compile available EEG data in an appropriate format fir for machine learning libraries; one open source dataset is here: https://www.physionet.org/content/eegmmidb/1.0.0/
 2. to make predictions from this data, as regards to what kind of movement the person was __thinking of__ when the ECG was recorded.
-
-The implications are, of course, a lot many. Mind-controlled devices, for example. Prosthetic arms and legs which take direct orders from brain. And so on.
 
 Writing in a train. Still trying to gather how the data is formatted (? EDF files) and how to read them in python.
