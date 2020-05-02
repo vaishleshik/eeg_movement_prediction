@@ -12,4 +12,7 @@ There is evidence that the very __thought__ of movements elicits electroencephal
 1. to compile available EEG data in an appropriate format fir for machine learning libraries; one open source dataset is here: https://www.physionet.org/content/eegmmidb/1.0.0/
 2. to make predictions from this data, as regards to what kind of movement the person was __thinking of__ when the ECG was recorded.
 
+## Exploratory analyisis
+https://medium.com/@cmacus/data-visualisation-the-brain-in-action-cd15195f4fdf?sk=ae7aded20f673a17d0803a54756f562d
+
 Writing in a train. Still trying to gather how the data is formatted (? EDF files) and how to read them in python.
